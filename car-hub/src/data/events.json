@@ -1,0 +1,30 @@
+{
+    "car_events": [
+      {
+        "company": "Geneva Motor Show",
+        "date": "2024-03-05",
+        "description": "The Geneva International Motor Show is an annual auto show held in March in the Swiss city of Geneva. It is one of the most important automotive events globally, showcasing new car models, concept cars, and automotive technology."
+      },
+      {
+        "company": "Pebble Beach Concours d'Elegance",
+        "date": "2024-08-18",
+        "description": "The Pebble Beach Concours d'Elegance is a prestigious classic car event held annually in Pebble Beach, California. It is renowned for its display of vintage and classic automobiles, attracting collectors, enthusiasts, and automotive experts from around the world."
+      },
+      {
+        "company": "Goodwood Festival of Speed",
+        "date": "2024-07-05",
+        "description": "The Goodwood Festival of Speed is an annual hill climb event held in the grounds of Goodwood House, West Sussex, England. It celebrates the history of motorsport and showcases a wide variety of cars, from vintage racers to modern supercars."
+      },
+      {
+        "company": "Tokyo Motor Show",
+        "date": "2024-10-23",
+        "description": "The Tokyo Motor Show is a biennial auto show held in Tokyo, Japan. It features displays from domestic and international automotive manufacturers, highlighting the latest advancements in automotive technology and design."
+      },
+      {
+        "company": "Detroit Auto Show",
+        "date": "2024-06-12",
+        "description": "The North American International Auto Show, also known as the Detroit Auto Show, is an annual auto show held in Detroit, Michigan. It is one of the largest and most influential automotive events in North America, showcasing new car models and innovations."
+      }
+    ]
+  }
+  

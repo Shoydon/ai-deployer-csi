@@ -1,0 +1,155 @@
+{
+    "exotic_cars": [
+      {
+        "brand": "Lamborghini",
+        "model": "Aventador",
+        "engine": "6.5-liter V12",
+        "power": "770 horsepower",
+        "torque": "720 Nm",
+        "transmission": "7-speed ISR automated manual",
+        "chassis": "Carbon Fiber Monocoque",
+        "year_of_release": 2011
+      },
+      {
+        "brand": "Ferrari",
+        "model": "488 GTB",
+        "engine": "3.9-liter twin-turbocharged V8",
+        "power": "660 horsepower",
+        "torque": "760 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Aluminum space-frame chassis",
+        "year_of_release": 2015
+      },
+      {
+        "brand": "Pagani",
+        "model": "Huayra",
+        "engine": "6.0-liter twin-turbocharged V12",
+        "power": "720 horsepower",
+        "torque": "1,000 Nm",
+        "transmission": "7-speed automated manual",
+        "chassis": "Carbon-Titanium Monocoque",
+        "year_of_release": 2012
+      },
+      {
+        "brand": "Koenigsegg",
+        "model": "Agera RS",
+        "engine": "5.0-liter twin-turbocharged V8",
+        "power": "1,160 horsepower",
+        "torque": "1,280 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Carbon Fiber Monocoque",
+        "year_of_release": 2017
+      },
+      {
+        "brand": "Bugatti",
+        "model": "Chiron",
+        "engine": "8.0-liter quad-turbocharged W16",
+        "power": "1,500 horsepower",
+        "torque": "1,600 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Carbon Fiber Monocoque",
+        "year_of_release": 2016
+      },
+      {
+        "brand": "Audi",
+        "model": "R8",
+        "engine": "5.2-liter V10",
+        "power": "610 horsepower",
+        "torque": "560 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Aluminum space-frame chassis",
+        "year_of_release": 2006
+      },
+      {
+        "brand": "Mercedes-AMG",
+        "model": "GT",
+        "engine": "4.0-liter twin-turbocharged V8",
+        "power": "577 horsepower",
+        "torque": "700 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Aluminum space-frame chassis",
+        "year_of_release": 2014
+      },
+      {
+        "brand": "McLaren",
+        "model": "720S",
+        "engine": "4.0-liter twin-turbocharged V8",
+        "power": "710 horsepower",
+        "torque": "770 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Carbon Fiber Monocoque",
+        "year_of_release": 2017
+      },
+      {
+        "brand": "Porsche",
+        "model": "911 GT2 RS",
+        "engine": "3.8-liter twin-turbocharged flat-six",
+        "power": "700 horsepower",
+        "torque": "750 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Aluminum space-frame chassis",
+        "year_of_release": 2018
+      },
+      {
+        "brand": "Aston Martin",
+        "model": "DBS Superleggera",
+        "engine": "5.2-liter twin-turbocharged V12",
+        "power": "715 horsepower",
+        "torque": "900 Nm",
+        "transmission": "8-speed automatic",
+        "chassis": "Aluminum chassis with Carbon Fiber body panels",
+        "year_of_release": 2018
+      },
+      {
+        "brand": "Lamborghini",
+        "model": "Huracan Performante",
+        "engine": "5.2-liter V10",
+        "power": "640 horsepower",
+        "torque": "600 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Hybrid aluminum and carbon fiber frame",
+        "year_of_release": 2017
+      },
+      {
+        "brand": "Ferrari",
+        "model": "SF90 Stradale",
+        "engine": "4.0-liter twin-turbocharged V8 with electric motors",
+        "power": "986 horsepower",
+        "torque": "800 Nm",
+        "transmission": "8-speed dual-clutch automatic",
+        "chassis": "Aluminum space-frame chassis",
+        "year_of_release": 2019
+      },
+      {
+        "brand": "Pagani",
+        "model": "Zonda HP Barchetta",
+        "engine": "7.3-liter naturally aspirated V12",
+        "power": "789 horsepower",
+        "torque": "760 Nm",
+        "transmission": "6-speed manual",
+        "chassis": "Carbon-Titanium Monocoque",
+        "year_of_release": 2018
+      },
+      {
+        "brand": "Koenigsegg",
+        "model": "Jesko Absolut",
+        "engine": "5.0-liter twin-turbocharged V8",
+        "power": "1,600 horsepower",
+        "torque": "1,500 Nm",
+        "transmission": "9-speed multi-clutch automatic",
+        "chassis": "Carbon Fiber Monocoque",
+        "year_of_release": 2020
+      },
+      {
+        "brand": "Bugatti",
+        "model": "Veyron Super Sport",
+        "engine": "8.0-liter quad-turbocharged W16",
+        "power": "1,200 horsepower",
+        "torque": "1,500 Nm",
+        "transmission": "7-speed dual-clutch automatic",
+        "chassis": "Carbon Fiber Monocoque",
+        "year_of_release": 2010
+      }
+    ]
+  }
+  
